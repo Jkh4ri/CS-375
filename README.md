@@ -1,1 +1,1 @@
-# CS-375
+# CS-375: In last week's sprint, I focused on figuring out who is doing which part of the project. I wanted to know when we would meet and all the required information we would need to put into the proposal. The only technical challenge was figuring out everyone’s technical abilities and identifying strengths and weaknesses within the group. We have emailed Dr. Mongan to see if he would become a stakeholder in our group and provide his feedback on our project. 
